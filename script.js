@@ -1,5 +1,6 @@
 // cara untuk membuat object pada javascript
 // 1. object literal
+// Problem : Tidak cocok untuk objek yang banyak
 // let mahasiswa = {
 //     nama: 'awal kurniawan',
 //     energi: 10,
