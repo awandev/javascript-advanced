@@ -11,6 +11,7 @@
 // }
 
 // 2. function declaration
+// problem : tidak efektif dalam memori
 // function Mahasiswa(nama, energi) {
 //     let mahasiswa = {};
 //     mahasiswa.nama = nama;
