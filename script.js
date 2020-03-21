@@ -31,6 +31,7 @@
 // let awalone = Mahasiswa('Awalone', 10);
 // let rayyan = Mahasiswa('Ar Rayyan', 20);
 
+// tes aja nih
 
 // 3. constuctor function
 function Mahasiswa(nama, energi) {
